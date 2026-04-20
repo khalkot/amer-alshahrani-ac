@@ -1,6 +1,7 @@
 import About from "./components/About"
 import Header from "./components/Header"
 import Products from "./components/Products"
+import Testimonials from "./components/Testimonials"
 
 const App = () => {
   return (
@@ -8,6 +9,7 @@ const App = () => {
       <Header/>
       <About/>
       <Products/>
+      <Testimonials/>
     </div>
   )
 }
