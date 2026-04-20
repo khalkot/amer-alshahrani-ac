@@ -24,13 +24,13 @@ const Navbar = () => {
             <a href="#Header" className='cursor-pointer hover:text-gray-400'>
                 Home
             </a>
-            <a href="#Header" className='cursor-pointer hover:text-gray-400'>
+            <a href="#About" className='cursor-pointer hover:text-gray-400'>
                 About
             </a>
-            <a href="#Header" className='cursor-pointer hover:text-gray-400'>
+            <a href="#Products" className='cursor-pointer hover:text-gray-400'>
                 Products
             </a>
-            <a href="#Header" className='cursor-pointer hover:text-gray-400'>
+            <a href="#Services" className='cursor-pointer hover:text-gray-400'>
                 Services
             </a>
 
